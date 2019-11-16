@@ -5,10 +5,10 @@ import unittest
 
 """ Finding the Roman equivalent of an Arabic integer"""
 """ Assumptions:
-				1.Roman equivalent of 0 does not exist, this program returns blank string in case of input as 0
-				2.Valid only for integers between 1 and 3999, both inclusive. This is due to constraint of not having standard Roman
-				equivalent for 5000 and above as mentioned in Wikipedia source below.
-	Source:
+		1.Roman equivalent of 0 does not exist, this program returns blank string in case of input as 0
+		2.Valid only for integers between 1 and 3999, both inclusive. This is due to constraint of not having standard Roman
+		equivalent for 5000 and above as mentioned in Wikipedia source below.
+    Source:
 		https://en.wikipedia.org/wiki/Roman_numerals#%22Standard%22_forms
 """
 
